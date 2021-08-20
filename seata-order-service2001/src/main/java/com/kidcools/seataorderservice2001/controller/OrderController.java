@@ -19,6 +19,7 @@ public class OrderController {
         R res = orderService.createOrder(order);
         System.out.println("hello kidcools1");
         System.out.println("hello kidcools2");
+        System.out.println("hot-fix  修改了");
         return res;
     }
 }
