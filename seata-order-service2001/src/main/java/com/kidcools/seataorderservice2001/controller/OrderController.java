@@ -19,6 +19,9 @@ public class OrderController {
         R res = orderService.createOrder(order);
         System.out.println("hello kidcools1");
         System.out.println("hello kidcools2");
+        R res2 = orderService.createOrder(order);
+        System.out.println("hello kidcools1");
+        System.out.println("hello kidcools2");
         return res;
     }
 }
