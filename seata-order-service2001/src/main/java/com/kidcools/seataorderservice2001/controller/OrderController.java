@@ -15,7 +15,7 @@ public class OrderController {
     OrderService orderService;
     @RequestMapping("/order/add")
     public R createOrder(@RequestBody Order order){
-        //创建Order
+        //创建Order。
         R res = orderService.createOrder(order);
         System.out.println("hello kidcools1");
         System.out.println("hello kidcools2");
