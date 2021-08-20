@@ -1,0 +1,15 @@
+server:
+  port: 2001
+spring:
+  application:
+    name: seata-order-service2001
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/seate_order
+    username: root
+    password: 123456kid
+  cloud:
+    nacos:
+      server-addr: localhost:8848
+mybaits:
+  mapperLocations: classpath:mapper/*.xml
