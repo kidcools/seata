@@ -16,6 +16,9 @@ public class OrderController {
     @RequestMapping("/order/add")
     public R createOrder(@RequestBody Order order){
         //创建Order
-        return null;
+        R res = orderService.createOrder(order);
+        return res;
     }
+
+
 }
