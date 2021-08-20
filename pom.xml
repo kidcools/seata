@@ -19,7 +19,7 @@
     </properties>
 
     <dependencyManagement>
-
+        <!--test-->
         <dependencies>
             <dependency>
                 <groupId>com.alibaba.cloud</groupId>
