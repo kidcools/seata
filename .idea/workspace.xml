@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67890c98-9803-4db0-a50c-70525f262ce3" name="Default Changelist" comment="初次上传 2021年8月20日">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="67890c98-9803-4db0-a50c-70525f262ce3" name="Default Changelist" comment="删除无用的文件 2021年8月20日">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +39,9 @@
     <option name="jrebelEnabledAutocompile" value="true" />
   </component>
   <component name="ProjectId" id="1wwNd0tH1eOnWZo5Ui5LUWhcbAU" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -99,7 +100,7 @@
       <updated>1629365776776</updated>
       <workItem from="1629365778484" duration="5763000" />
       <workItem from="1629419522793" duration="8178000" />
-      <workItem from="1629443673069" duration="347000" />
+      <workItem from="1629443673069" duration="536000" />
     </task>
     <task id="LOCAL-00001" summary="spring cloud seata 基本架构完成 2021年8月20日 11:03:20">
       <created>1629428660581</created>
@@ -136,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629443186470</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="删除无用的文件 2021年8月20日">
+      <created>1629444053007</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1629444053007</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,6 +203,7 @@
     <MESSAGE value="修改OrderController 2021年8月20日 14:59:28" />
     <MESSAGE value="去除无用文件 2021年8月20日 14:59:28" />
     <MESSAGE value="去除无用文件 2021年8月20日" />
-    <option name="LAST_COMMIT_MESSAGE" value="去除无用文件 2021年8月20日" />
+    <MESSAGE value="删除无用的文件 2021年8月20日" />
+    <option name="LAST_COMMIT_MESSAGE" value="删除无用的文件 2021年8月20日" />
   </component>
 </project>
