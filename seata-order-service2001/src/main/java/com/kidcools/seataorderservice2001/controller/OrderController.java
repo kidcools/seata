@@ -20,6 +20,4 @@ public class OrderController {
         System.out.println("hello kidcools1");
         return res;
     }
-
-
 }
